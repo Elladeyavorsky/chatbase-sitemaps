@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home (shared) -->
+  <url><loc>https://hyper-muskox-f75.notion.site/Yeesshh-web-help-center-27d46a72e134806dafa9ce081e7cf461</loc></url>
+
+
+  <!-- KB YEESSHH FOR ALL (shared) -->
+  <url><loc>https://hyper-muskox-f75.notion.site/26946a72e13480e4a07dcc9020cbb812?v=26946a72e13481edbec6000ce8fc78f2</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Yeesshh-headquarter-details-26946a72e13481b69d61c62e6a469869?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What-are-Yeesshh-opening-hours-26946a72e13481619089e8028b84e605?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What-information-is-needed-a-Bill-26946a72e13481bd97e2eaeca482c258?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Our-forecast-for-2020-26946a72e13481fdb73ad77ac9f48994?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What_s-to-come-in-2020-_ASW-feed-back_-26946a72e1348109b9d2ea86e9631757?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Which-trade-show-Event-will-Yeesshh-attend-26946a72e13481589de6c9b368cf64a6?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Payment-to-Publishers-26946a72e134811aac0bc75e4ca68e57?pvs=25</loc></url>
+
+
+  <!-- PROGRAMMATIC PLATFORMS (shared) -->
+  <url><loc>https://hyper-muskox-f75.notion.site/27d46a72e13480e1930ae5543089dd1f?v=27d46a72e1348045b17a000c6a870238</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-Does-the-Yeesshh-Platform-Work-26846a72e13481b49d2afaa500a9ee07?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What-Is-Shopping-Intent-Advertising_-26846a72e134812ba8fdd3d43a0c9ca6?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Brand-Safety-and-Compliance-in-Shopping-Intent-Advertising-myDSP-26846a72e1348148b2afed9ac45df777?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Which-time-zone-are-Yeesshh-Platform-stats-based-on-26846a72e13481ee917bc425175e50f2?pvs=25</loc></url>
+
+
+  <!-- KB PLATFORM FOR ADVERTISER (shared) -->
+  <url><loc>https://hyper-muskox-f75.notion.site/27d46a72e1348068b323e6b86fb5d37e?v=27d46a72e134800f87d1000c5ea6886e</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Who-are-your-publishers-Traffic-sources-26846a72e1348168bd01f0077094f4b2?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What-Is-the-Difference-Between-DSP-and-myDSP_-26846a72e1348142a459dbdc902a245a?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/DSP-and-myDSP-What-business-model-do-you-work-with?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/When-Will-My-Campaign-Be-Approved-26846a72e13481b6a24de659936f26bb?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What_s-the-minimum-budget_-26846a72e1348115becef569d61c6ca2?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/DSP-and-myDP_-What-verticals-do-you-work-on_-26846a72e13481a39bbbed7189d90e12?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Can-I-track-my-campaign_-26846a72e1348168ae8dfcf8a20ba972?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What-Is-Yeesshh_s-Financial-Model_-26846a72e13481d2b51af0fc44668845?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Add-funds-Top-up-What-Payment-Options-Are-Available-for?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Fees-Applied-on-advertiser-Payments-26846a72e13481b192cfeb4cdedd0e92?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/DSP-_-MyDSP-_-Can-I-Transfer-Funds-Between-Platforms_?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-Whitelist-WL-and-Blacklist-BL-Work-for-Publisher-IDs?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Where-can-I-see-my-available-budget-funds-26946a72e1348082bd16fba811e10beb?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Login-Problems-and-Account-Access-Issues-_Advertisers-_-Publishers_-26846a72e1348199a64ff92bdb48048d?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Platform-advertisers-Can-I-work-by-myself-or-do-I?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/First-price-and-second-price-auction-26846a72e13481aaa6adff27459cf43b?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Promotion-first-top-up-26846a72e13481e9bed0c5df84159204?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/What-does-RON-mean_-26846a72e134816c8dc3e1469b085f27?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-to-Contact-Yeesshh-Support_-26846a72e1348151b84ae1f783a50871?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Platforms-stats-Why-Google-Analytics-and-Yeesshh-Data-May-Differ?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-Campaign-Approval-Works-26846a72e13481ca9e01dcb38be16901?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-Yeesshh-Protects-Advertiser-from-Bot-and-Fraudulent-Traffic-26846a72e13481d2b746cf35714bd68b?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Is-AdBlock-a-Problem-for-My-Campaigns_-26846a72e1348114a485f031e1170cef?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Why-Is-advertiser-Campaign-Paused-or-Not-Receiving-Traffic_-26846a72e134818ea54bd84589ad812c?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-VAT-Is-Managed-on-Advertiser-Payments-26846a72e13481edab34f7b2f5a22791?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/XML-Demand-Partners-_-Credit-Policy-and-Traffic-Refill-Process?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Chargeback-Policy-and-Procedure-26846a72e13481b88b01d8e2cbe641be?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Wire-Transfer-Payment-Fees-and-Instructions-for-advertisers-26846a72e1348136a7b5d89a9cba0681?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/DSP-_-MyDSP-_-Refund-Policy-26846a72e134812e8c1bcc215f063796?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Why-Is-advertiser-Balance-not-Updating-After-Payment_-26846a72e13481d5a0fbd60dd070512c?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-and-When-advertiser-Receives-its-Invoices-26846a72e13481ebbca7fd9186519f8f?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Why-Was-My-Payment-Declined-or-Marked-as-Pending_-26846a72e13481468c36c68d833f8264?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Can-I-pay-USDT-26846a72e1348197ae35eae4f9ea7ef1?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Platforms-Referral-program-26846a72e13481b1b080e64406cbf4e2?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/Black-Friday-at-Yeesshh-3-Fridays-26846a72e134815dad5dde7e691623e2?pvs=25</loc></url>
+
+
+  <!-- KB myDSP FOR ADVERTISERS (myDSP only) -->
+  <url><loc>https://hyper-muskox-f75.notion.site/27d46a72e134802c830ae07471afc14d?v=27d46a72e13480c59f77000ce354caa0</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-Ad-Formats-in-Shopping-Intent-Advertising-26846a72e13481e2bf2edea06f50b403?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-Definitions_-glossary-26846a72e134814d8876e958d9b14bbd?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-API-for-advertisers-26846a72e134816a9100c1d587a18ec2?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-_-Available-macros-_-tokens-26846a72e13481578e2fe9909cfa2285?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-What-is-the-minimum-bid-26846a72e1348105b1e2d3c07321ce79?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-_-What-Are-the-High-Intent-Traffic-Types-26846a72e13481db944ad2d9dd1a4ee8?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-for-advertisers_-DeepLinking-Campaigns-on-MyDSP-26846a72e134819d912fe4ef32b9ac17?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP_-How-to-target-brand_domain_-26846a72e13481519686f73a5fd239c2?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/How-to-Create-and-Launch-Your-First-myDSP-Campaign-26846a72e13481a2aa2eff93d1b4445a?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-Targeting-Guide_-How-to-Set-the-Right-Audience-for-Your?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP_-Manual-and-Automatic-Campaign-Approval-Rules-26846a72e13481749b08fab41264d400?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-How-to-Enable-or-Pause-a-Campaign-26846a72e134812988c5dec9bdcdc0fa?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-Clone-a-campaign-26846a72e1348194b516eff88ec50ecb?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-How-to-blacklist-or-whitelist-26946a72e134801f930ec2da33eaabf1?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP_-How-to-Edit-or-Update-Your-Campaign-26846a72e1348109b8e1e61a19cbefbb?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-Auto-Blacklister-26846a72e1348181a32cc224e0f500fb?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP_-Bid-by-Feed-and-Subid-_Special-bid_-26846a72e13481a6b952fc55601bb19e?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-How-to-setup-conversion-tracking-26846a72e13481158969e62b9f3f18be?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-What-is-the-Postback-URL-for-Conversion-Tracking-26846a72e13481389310d70e0dad6eab?pvs=25</loc></url>
+  <url><loc>https://hyper-muskox-f75.notion.site/myDSP-Tracking-with-GTM-Google-Tag-Manager-26846a72e134810aa9cad3f5fe062ee6?pvs=25</loc></url>
+</urlset>
